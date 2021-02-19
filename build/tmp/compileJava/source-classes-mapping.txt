@@ -1,4 +1,5 @@
-hello/hellospring/controller/HelloController.java
- hello.hellospring.controller.HelloController
 hello/hellospring/HelloSpringApplication.java
  hello.hellospring.HelloSpringApplication
+hello/hellospring/controller/HelloController.java
+ hello.hellospring.controller.HelloController
+ hello.hellospring.controller.HelloController$Hello
